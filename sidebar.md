@@ -1,1 +1,1 @@
--  [STEM](LaEducacionSTEMenUruguay.Desafiodetodos.md)
+-  [LaEducacionSTEMenUruguay.Desafiodetodos.md](STEM)
